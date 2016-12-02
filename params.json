@@ -1,6 +1,6 @@
 {
-  "name": "SPA路由双线绑定实现",
-  "tagline": "不积跬步无以至千里",
+  "name": "路由双向绑定",
+  "tagline": "不积跬步，无以至千里；不积小流，无以成江海（李晓龙）",
   "body": "### 单页应用.\r\n单页Web应用（single page web application，SPA）无疑是目前网站开发技术的弄潮儿，很多传统网站都在或者已经转型为单页Web应用，新的单页Web应用网站（包括移动平台上的）也如雨后春笋般涌现在人们的面前，如Gmail、Evernote、Trello等。如果你是一名Web开发人员，却还没开发过或者甚至是没有听说过单页应用，那你已经Out很久了。\r\n\r\n### 双向绑定\r\n1.我们需要一种方式确定哪个UI元素绑定在哪个属性上。\r\n2.我们需要监控属性和UI的变化\r\n3.我们需要把所有绑定的对象和UI元素的变化传播出去\r\n\r\n\r\n### 路由\r\nMVVM中极为重要的一环\r\n\r\n### fis\r\n构建工具\r\n\r\n### 感谢\r\n感谢药网",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
